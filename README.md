@@ -4,5 +4,5 @@ Fetches the official list of http status codes from [IANA](https://www.iana.org/
 
 ## Usage
 ```bash
-python3 main.py
+$ python3 main.py
 ```
