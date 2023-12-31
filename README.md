@@ -1,10 +1,7 @@
-# status_codes 🐿
+# http-status-codes
 
-Fetches the official list of http status codes from [IANA](https://www.iana.org/assignments/http-status-codes/http-status-codes.xml) and creates a JSON object mapping status code to description.
+Fetches the official list of http status codes from [IANA]
+and converts it to JSON.
 
-A prefetched list of status codes can be found under [data/status_codes.json](data/status_codes.json)
 
-## Usage
-```bash
-$ python3 main.py
-```
+[IANA]: https://www.iana.org/assignments/http-status-codes/http-status-codes.xml
